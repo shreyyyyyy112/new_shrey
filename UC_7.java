@@ -76,7 +76,7 @@ public class UC_7 {
                 return map.getPattern();
             }
         }
-        return new String[7]; // fallback
+        return new String[7]; 
     }
 
     

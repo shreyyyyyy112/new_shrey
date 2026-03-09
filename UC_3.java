@@ -5,7 +5,7 @@ public class UC_3 {
         System.out.println(String.join(" ","  ** **  ",  "  ** **  ",  " **   **",  " **     "));
         System.out.println(String.join(" "," **   ** ",  " **   ** ",  " **   **",  " **     "));
         System.out.println(String.join(" "," **   ** ",  " **   ** ",  " ****** ",  "   **** "));
-        System.out.println(String.join(" "," **   ** ",  " **   ** ",  " **     ",  "        "));
+        System.out.println(String.join(" "," **   ** ",  " **   ** ",  " **     ",  " *       "));
         System.out.println(String.join(" ","  ** **  ",  "  ** **  ",  " **     ",  " **    "));
         System.out.println(String.join(" ","   ***   ",  "   ***   ",  " **     ",  "  *****"));
 
